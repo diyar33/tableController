@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         let ilkkontroll=0
-        print(ilkkontroll)
+let ikinci=1
     }
 
 
